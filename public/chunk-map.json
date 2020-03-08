@@ -1,15 +1,1 @@
-{
-  "app": ["/app-dee10dc134244eed2b2b.js"],
-  "component---node-modules-gatsby-plugin-offline-app-shell-js": [
-    "/component---node-modules-gatsby-plugin-offline-app-shell-js-cf2fd0f92da7499f18b1.js"
-  ],
-  "component---src-pages-404-js": [
-    "/component---src-pages-404-js-5635bbd43be482e51332.js"
-  ],
-  "component---src-pages-artists-js": [
-    "/component---src-pages-artists-js-27b63355e21f78d63aae.js"
-  ],
-  "component---src-pages-index-js": [
-    "/component---src-pages-index-js-1a490b108e142fbdd341.js"
-  ]
-}
+{"app":["/app-dee10dc134244eed2b2b.js"],"component---node-modules-gatsby-plugin-offline-app-shell-js":["/component---node-modules-gatsby-plugin-offline-app-shell-js-cf2fd0f92da7499f18b1.js"],"component---src-pages-404-js":["/component---src-pages-404-js-5635bbd43be482e51332.js"],"component---src-pages-artists-js":["/component---src-pages-artists-js-27b63355e21f78d63aae.js"],"component---src-pages-index-js":["/component---src-pages-index-js-3f99ee0ebb3bd3b7d7d7.js"]}
