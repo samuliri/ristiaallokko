@@ -18,11 +18,11 @@ class IndexPage extends React.Component {
           }}
         >
           <div
-            className={`wave`}
+            className={`wavy-border`}
             style={{ float: `right`, letterSpacing: `0.05em` }}
           >
             <p style={{ marginBottom: `0.1rem` }}>Lapinlahti Hospital Area</p>
-            <p>10-26 April</p>
+            <p style={{ marginBottom: `0.1rem` }}>10-26 April</p>
           </div>
         </div>
         <p
@@ -48,6 +48,10 @@ class IndexPage extends React.Component {
           </p>
           <p>
             Ristiaallokko | Cross Waves exhibition is the outcome of the Interactive Art course taught by Matti Niinimäki in Aalto University. The aim of the course is to explore the notion of interaction within the context of new media art.
+          </p>
+          <h2>Opening</h2>
+          <p>
+            April 9, 18:00
           </p>
           <h2>Where</h2>
           <p>

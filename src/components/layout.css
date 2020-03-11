@@ -674,10 +674,10 @@ body {
   position: absolute;
   z-index: -2;
   top:0;
-    bottom:0;
-    left:0;
-    right:0;
-    overflow:hidden;
+  bottom:0;
+  left:0;
+  right:0;
+  overflow:hidden;
 }
 #bg-filter {
   opacity: 0.6;
@@ -692,4 +692,13 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-color: rgb(250,249,228);
+}
+.vanta-canvas {
+  min-width: 100%;
+  min-height: 100%;
+} 
+.wavy-border {
+  border: 3px solid rgb(70,156,121);
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  padding: 1rem;
 }
