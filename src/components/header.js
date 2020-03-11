@@ -1,6 +1,7 @@
 import { Link } from "gatsby";
 import PropTypes from "prop-types";
 import React from "react";
+import { Helmet } from 'react-helmet';
 
 const Header = ({ siteTitle }) => (
   <header
@@ -12,6 +13,9 @@ const Header = ({ siteTitle }) => (
       padding: `0 1rem`
     }}
   >
+    <Helmet defer={false}>
+      <script src="/vanta.waves.min.js"></script>
+    </Helmet>
     <div
       style={{
         margin: `3rem auto 0`,
